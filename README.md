@@ -7,6 +7,11 @@ My interest in IT began from when I was a child. I didn't have access to compute
 ### My IT Experience
 I began working in the ICT support field as my first fulltime job in 2005. I have been working in the indrustry since and have gained valuable knopwledge and expeince along the way. I hope to further my career opportunities in the sector by completing my bachelor's degree.
 
+# Why I chose RMIT
+I enquired through Open Universities Australia about comencing university study online and this is where I was advised RMIT offer exactly whatI was after. RIT have a solid reputation for graduates finding work post studies. At the moment I am balancing work as wella s studies so the online aspect is great for me to find a healthy balance.
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

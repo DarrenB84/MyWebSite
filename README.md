@@ -18,23 +18,23 @@ Outside of technology my other interests are gardening - growing my own food, my
 
 ### Ideal Job
 <https://smartjobs.qld.gov.au/jobs/QLD-CO304353-19P>
-<br />The position linked above **(Senior Technical Developer)** is the kind of role I would aspire to be doing within the next ten years. It is an extensive technical role that requires many years of experience in coding and development testing. The position is also for a senior person who would be a team lead and mentor to other code developers. The requirement to code and develop is not only required but many years' experience and the ability to manage and lead a team in a very technical area. The skills required would most likely a degree in IT as well as training and qualifications in business management. As of right now I am very junior in my skills and experience, I have no knowledge or skills in writing code and have no prior tertiary education in IT - that's a big reason why I'm here! I hope to successfully complete my degree in IT and obtain the skills and experience to become and developer and tester and then from there gain experience on the job site to one day be qualified and experienced to take on such a position.
+<br />The position linked above **(Senior Technical Developer)** is the kind of role I would aspire to be doing within the next ten years. It is an extensive technical role that requires many years of experience in coding and development testing. The position is also for a senior person who would be a team lead and mentor to other code developers. The requirement to code and develop is not only required but many years' experience and the ability to manage and lead a team in a very technical area. The skills required would be a degree in IT as well as training and qualifications in business management. As of right now I am very junior in my skills and experience, I have no knowledge or skills in writing code and have no prior tertiary education in IT - that's a big reason why I'm here! I hope to successfully complete my degree in IT and obtain the skills and experience to become a developer and tester and then from there gain experience on the job site to one day be qualified and experienced to take on such a position.
 ![](images/idealjob.PNG)
 
 ### Personal Profile
 The **Myers-Briggs Type Indicator test** test I performed was via url: <https://www.truity.com/test/type-finder-personality-test-new>
-The results for my answers determine I am an Introverted person by 61%.
+<br />The results for my answers determine I am an Introverted person by 61%.
 I lean towards intuition over sensing by 54%.
 I have a slight preference to thinking over feeling at 56%.
 I am said to perceive over judge by 59%.
 My personality types are said to be a healer, a craftsperson and an architect.
 
 The **Learning style test** I participated in was via url: <http://www.whatismylearningstyle.com/learning-style-test-1.html>
-The results indicate that I am a "Visual learner" and I would 100% agree with that.
+<br />The results indicate that I am a "Visual learner" and I would 100% agree with that.
 ![](images/learningstyle.png)
 
 For the third test I chose the **Big Five Personality Tests** via url: <https://www.truity.com/view/tests/big-five-personality>
-My results scored me higher in the Openness 67% and Neuroticism 83%.
+<br />My results scored me higher in the Openness 67% and Neuroticism 83%.
 ![](images/ocean.PNG)
 
 **What the results mean for me;**

@@ -34,5 +34,8 @@ The results indicate that I am a "Visual learner" and I would 100% agree with th
 ![](images/learningstyle.png)
 
 For the third test I chose the **Big Five Personality Tests** via url: https://www.truity.com/view/tests/big-five-personality
-My results scored me higher in the Openness %67% and Neuroticism 83%.
+My results scored me higher in the Openness 67% and Neuroticism 83%.
 ![](images/ocean.png)
+
+**What the results mean for me;**
+I see that these results indicate that I am a quiet person in group situations who learns best with a hands on approach over book studies. I can relate to this and feel that I like IT because I can see the results of my work develop in front of me. The results may also indicate that I might be too hard on myself and view myself in a negative light. I think with more education and success my mind set and confidence in myself can grow in a more positive direction.

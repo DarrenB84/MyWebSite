@@ -1,7 +1,11 @@
 ## Welcome to Darren Bonelli's GitHub Page
 Student ID: S3793513 email: S3793513@student.rmit.edu.au
 
-About me: I've been working in the ICT support field for around 14 years and have decided to better my career opportunities by completing my bachelor's degree in Information Technology. I hope that in a few years from now I will be away from answering support calls and instead performing much more challenging and technical tasks that I will find rewarding. I chose to do my university studies with RMIT as they have an excellent reputation with graduates finding work post studies and they were flexible in offering online study through Open Universities Australia. I have always had an interest in computers and technology and it was always inevitable that I was going to find a career in the field. My other interests include animals - my cat and dog, gardening, motorcycles, cars and enjoying the odd craft beer.
+# My Interest in IT
+My interest in IT began from when I was a child. I didn't have access to computers or video game consoles at home but anywhere I went where there was a PC or electronics I was drawn to them. I particulary remember looking forward to heading over to my cousins house and sitting on my uncles 486 computer running Windows 3.11 all day. As I grew older and was able to leave the house on my own I was drawn to anywhere that had the internet and I would enjoy sitting in libraries online, internet cafes or just sitting at a friends house around one PC interacting online. 
+
+# My IT Experience
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

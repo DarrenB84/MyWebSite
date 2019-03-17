@@ -1,7 +1,7 @@
 ## Welcome to Darren Bonelli's GitHub Page
 Student ID: S3793513 email: S3793513@student.rmit.edu.au
 
-You can use the [editor on GitHub](https://github.com/DarrenB84/MyWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+About me: I've been working in the ICT support field for around 14 years and have decided to better my career opportunities by completing my bachelor's degree in Information Technology. I hope that in a few years from now I will be away from answering support calls and instead performing much more challenging and technical tasks that I will find rewarding.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

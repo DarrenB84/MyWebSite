@@ -22,18 +22,21 @@ Outside of technology my other interests are gardening - growing my own food, my
 ![](images/idealjob.PNG)
 
 ### Personal Profile
-The **Myers-Briggs Type Indicator test** test I performed was via url: <https://www.truity.com/test/type-finder-personality-test-new>
+The **Myers-Briggs Type Indicator test** test I performed was via url; 
+<br /><https://www.truity.com/test/type-finder-personality-test-new>
 <br />The results for my answers determine I am an Introverted person by 61%.
 I lean towards intuition over sensing by 54%.
 I have a slight preference to thinking over feeling at 56%.
 I am said to perceive over judge by 59%.
 My personality types are said to be a healer, a craftsperson and an architect.
 
-The **Learning style test** I participated in was via url: <http://www.whatismylearningstyle.com/learning-style-test-1.html>
+The **Learning style test** I participated in was via url; 
+<br /><http://www.whatismylearningstyle.com/learning-style-test-1.html>
 <br />The results indicate that I am a "Visual learner" and I would 100% agree with that.
 ![](images/learningstyle.png)
 
-For the third test I chose the **Big Five Personality Tests** via url: <https://www.truity.com/view/tests/big-five-personality>
+For the third test I chose the **Big Five Personality Tests** via url; 
+<br /><https://www.truity.com/view/tests/big-five-personality>
 <br />My results scored me higher in the Openness 67% and Neuroticism 83%.
 ![](images/ocean.PNG)
 

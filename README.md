@@ -31,4 +31,4 @@ My personality types are said to be a healer, a craftsperson and an architect.
 
 The **Learning style test** I participated in was via url: http://www.whatismylearningstyle.com/learning-style-test-1.html
 The results indicate that I am a "Visual learner" and I would 100% agree with that.
-![](images/idealjob.PNG)
+![](images/learningstyle.png)

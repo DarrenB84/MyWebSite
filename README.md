@@ -19,7 +19,7 @@ Outside of technology my other interests are gardening - growing my own food, my
 ### Ideal Job
 An ideal job for my future self would be the Senior Technical Developer role with Education Queensland - https://smartjobs.qld.gov.au/jobs/QLD-CO304353-19P
 
-![](images/ideal job.PNG)
+![](images/idealjob.PNG)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

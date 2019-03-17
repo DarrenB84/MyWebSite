@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Darren Bonelli's GitHub Page
+Student ID: S3793513 email: S3793513@student.rmit.edu.au
 
 You can use the [editor on GitHub](https://github.com/DarrenB84/MyWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

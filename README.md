@@ -32,3 +32,7 @@ My personality types are said to be a healer, a craftsperson and an architect.
 The **Learning style test** I participated in was via url: http://www.whatismylearningstyle.com/learning-style-test-1.html
 The results indicate that I am a "Visual learner" and I would 100% agree with that.
 ![](images/learningstyle.png)
+
+For the third test I chose the **Big Five Personality Tests** via url: https://www.truity.com/view/tests/big-five-personality
+My results scored me higher in the Openness %67% and Neuroticism 83%.
+![](images/ocean.png)

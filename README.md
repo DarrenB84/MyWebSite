@@ -17,10 +17,9 @@ I expect to become far more technical with my knowledge of IT. I expect to be ab
 Outside of technology my other interests are gardening - growing my own food, my pets and animals - my dog and cat, I enjoy craft beers and various whiskeys, I try to exercise and keep healthy - cycling & gym, I only speak English but am first generation of an Italian background, I'm a foodie and I like rainy evenings on the couch binge watching Netflix
 
 ### Ideal Job
-An ideal job for my future self would be the Senior Technical Developer role with Education Queensland. The position requires experience and knowledge in programming and coding and as well is a team lead position mentoring other coders with their content development.  https://smartjobs.qld.gov.au/jobs/QLD-CO304353-19P
-
+ https://smartjobs.qld.gov.au/jobs/QLD-CO304353-19P
 ![](images/idealjob.PNG)
-The position requires experience and knowledge in programming and coading and as well is a team lead position mentoring other coders with their content development.
+The position listed above is the kind of role I would aspire to be doing within the next ten years. It is an extensive technical role that requires many years of experience in coding and development testing. The position is also for a senior person who would be a team lead and mentor to other code developers. The requirement to code and develop is not only required but many years' experience and the ability to manage and lead a team in a very technical area. The skills required would most likely a degree in IT as well as training and qualifications in business management. As of right now I am very junior in my skills and experience, I have no knowledge or skills in writing code and have no prior tertiary education in IT - that's a big reason why I'm here! I hope to successfully complete my degree in IT and obtain the skills and experience to become and developer and tester and then from there gain experience on the job site to one day be qualified and experienced to take on such a position.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

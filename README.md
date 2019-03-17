@@ -21,32 +21,3 @@ Outside of technology my other interests are gardening - growing my own food, my
 ![](images/idealjob.PNG)
 The position listed above **(Senior Technical Developer)** is the kind of role I would aspire to be doing within the next ten years. It is an extensive technical role that requires many years of experience in coding and development testing. The position is also for a senior person who would be a team lead and mentor to other code developers. The requirement to code and develop is not only required but many years' experience and the ability to manage and lead a team in a very technical area. The skills required would most likely a degree in IT as well as training and qualifications in business management. As of right now I am very junior in my skills and experience, I have no knowledge or skills in writing code and have no prior tertiary education in IT - that's a big reason why I'm here! I hope to successfully complete my degree in IT and obtain the skills and experience to become and developer and tester and then from there gain experience on the job site to one day be qualified and experienced to take on such a position.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DarrenB84/MyWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -17,10 +17,10 @@ I expect to become far more technical with my knowledge of IT. I expect to be ab
 Outside of technology my other interests are gardening - growing my own food, my pets and animals - my dog and cat, I enjoy craft beers and various whiskeys, I try to exercise and keep healthy - cycling & gym, I only speak English but am first generation of an Italian background, I'm a foodie and I like rainy evenings on the couch binge watching Netflix
 
 ### Ideal Job
-An ideal job for my future self would be the Senior Technical Developer role with Education Queensland - https://smartjobs.qld.gov.au/jobs/QLD-CO304353-19P
+An ideal job for my future self would be the Senior Technical Developer role with Education Queensland. The position requires experience and knowledge in programming and coding and as well is a team lead position mentoring other coders with their content development.  https://smartjobs.qld.gov.au/jobs/QLD-CO304353-19P
 
 ![](images/idealjob.PNG)
-
+The position requires experience and knowledge in programming and coading and as well is a team lead position mentoring other coders with their content development.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
